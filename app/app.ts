@@ -1,9 +1,9 @@
-import * as bodyParser from 'body-parser';
-import * as mongoose from 'mongoose';
-import * as express from 'express';
-import * as helmet from 'helmet';
-import * as logger from 'morgan';
-import * as cors from 'cors';
+import bodyParser from 'body-parser';
+import mongoose from 'mongoose';
+import express from 'express';
+import helmet from 'helmet';
+import logger from 'morgan';
+import cors from 'cors';
 
 let config = require('./../config/config');
 
