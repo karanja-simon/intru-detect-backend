@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <sub>Built with <a href="https://github.com/orgs/react-boilerplate">react biolerplate</a>, created by <a href="https://twitter.com/mxstbr">Max Stoiber</a> and maintained with ❤️ by an amazing <a href="https://github.com/orgs/react-boilerplate/teams/core">team of developers</a>.</sub>
+  <sub>Built and maintained with ❤️ by <a href="https://skdev.work">S.K</a>.</sub>
 </div>
 
 ## Description
