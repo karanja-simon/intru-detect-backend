@@ -9,7 +9,13 @@
 </div>
 
 ## Description
-An IOT application for motion and intrusion detection and alert using old Android smartphones. The application constitutes a two part:- An android client running on a smartphone and utilizing phone camera for motion detection and capture, usingMQTT to push data to a remote server. The second component is a remote server running a NodeJS service and a VerneMQ broker to handle data from remote devices. The NodeJS backend pushes the realtime data and events to an Angular frontend using Websockets. The application is still in early development stages
+An IOT application for motion and intrusion detection and alert using old Android smartphones and Raspberry-Pi. The application constitutes a two part:- 
+<dl>
+  <dd>
+An android client running on a smartphone and utilizing phone camera for motion detection and capture, usingMQTT to push data to a remote server. 
+  </dd>
+  </dl>
+  The second component is a remote server running a NodeJS service and a VerneMQ broker to handle data from remote devices. The NodeJS backend pushes the realtime data and events to an Angular frontend using Websockets. The application is still in early development stages
 
 ## License
 
