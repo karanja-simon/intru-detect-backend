@@ -1,4 +1,4 @@
-<img src="https://grantwinney.com/content/images/2017/03/git-banner.jpg" alt="react boilerplate banner" align="center" />
+<img src="http://www.bitreactive.com/wp-content/uploads/2014/08/FullSizeRender21-1024x1024.jpg" alt="react boilerplate banner" align="center" />
 
 <br />
 
